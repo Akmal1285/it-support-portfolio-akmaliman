@@ -1,6 +1,6 @@
 ## 🛠️ Troubleshooting Case Study: Slow PC (Windows 10)
 
-📄 [Download PDF Case Study](./troubleshooting/Slow_PC_Troubleshooting_Case_Study.pdf)  
+📄 [Download PDF Case Study](/troubleshooting/Slow_PC_Troubleshooting_Case_Study.pdf)  
 📊 [Troubleshooting Checklist](./troubleshooting/PC_Troubleshooting_Checklist.xlsx)
 
 This case study covers diagnosing and fixing a slow Windows 10 machine inside a virtual environment.  
