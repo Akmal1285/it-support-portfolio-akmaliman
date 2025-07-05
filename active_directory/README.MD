@@ -1,6 +1,6 @@
 ## 🔐 Windows 10 Domain Join to Active Directory
 
-📄 [Download Case Study](/Win10_Domain_Join_Case_Study.pdf)
+📄 [Download Case Study](./Win10_Domain_Join_Case_Study.pdf)
 
 This project demonstrates how a Windows 10 VM was configured to join an Active Directory domain hosted on a Windows Server 2019 domain controller.
 
