@@ -64,5 +64,5 @@ A local user named `TestUser` was logging into a temporary profile on Windows 10
 ---
 
 > 📁 Folder name: `fix_corrupt_user_profile_case_Study`  
-> 🖼 Place screenshots in `/screenshots` subfolder  
+> 🖼 Screenshots in `/screenshots` subfolder  
 
