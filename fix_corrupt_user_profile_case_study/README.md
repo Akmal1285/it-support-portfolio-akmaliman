@@ -68,4 +68,4 @@ User reports their Windows 10 account is not loading correctly. The system logs 
 ---
 
 > ✅ This is part of my local IT troubleshooting portfolio.  
-> See also: [Slow PC Case Study](../Slow_PC_Troubleshooting_Case_Study)
+> See also: [Slow PC Case Study](./Slow_PC_Troubleshooting_Case_Study)
