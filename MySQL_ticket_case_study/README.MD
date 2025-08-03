@@ -27,12 +27,10 @@ This case study demonstrates how to create and manage a basic helpdesk ticketing
 mysql -u root -p
 
 ### 2. Create and Use a Database
-```bash
 CREATE DATABASE itsupport;
 USE itsupport;
 
 ### 3.  Create a Tickets Table
-```bash
 CREATE TABLE tickets (
   id INT AUTO_INCREMENT PRIMARY KEY,
   username VARCHAR(100),
@@ -41,7 +39,6 @@ CREATE TABLE tickets (
 );
 
 ### 4. Insert Records
-```bash
 INSERT INTO tickets (username, issue, status)
 VALUES
 ('jane.doe', 'Printer not responding', 'open'),
@@ -49,11 +46,9 @@ VALUES
 ('Alex.hudson', 'WI-FI not connecting', 'open');
 
 ### 5. Query Records
-```bash
 SELECT * FROM tickets;
 
 ### 6. Update a Ticket
-```bash
 UPDATE tickets SET status = 'closed' WHERE id = 1;
 
 ### 7. Delete a Ticket
