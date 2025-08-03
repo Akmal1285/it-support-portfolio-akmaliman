@@ -52,7 +52,6 @@ SELECT * FROM tickets;
 UPDATE tickets SET status = 'closed' WHERE id = 1;
 
 ### 7. Delete a Ticket
-```bash
 DELETE FROM tickets WHERE id = 2;
 
 ---
@@ -63,7 +62,6 @@ DELETE FROM tickets WHERE id = 2;
 -Practiced full CRUD operations (Create, Read, Update, Delete)
 -Gained experience working with MySQL via the command line
 
----
 
 ## 💡 Key Learnings
 
@@ -71,4 +69,3 @@ DELETE FROM tickets WHERE id = 2;
 -How to structure tables and use SQL statements
 -How command-line tools are used in real-world IT environments
 
----
