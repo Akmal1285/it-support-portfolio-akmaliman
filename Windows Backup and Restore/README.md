@@ -42,7 +42,7 @@ A user accidentally deletes important documents from their `Documents` folder. A
 5. **Delete Test File**  
    Remove a file from `Documents` to simulate accidental deletion.  
 
-6. **Open Restore Wizard**  
+6. **Open File History**  
    Select **Restore my files** in Backup and Restore.  
 
 7. **Restore File**  
@@ -57,8 +57,9 @@ A user accidentally deletes important documents from their `Documents` folder. A
 | Destination selection | `02_select_destination.png` |
 | Backup progress | `03_backup_in_progress.png` |
 | Deleted file | `04_delete_file.png` |
-| Restore wizard open | `05_restore_wizard.png` |
-| Restored file | `06_restored_file.png` |
+| File History | `05_file_history_window.png` |
+| Finished restore | `07_finished_restore.png` |
+| Browse for file | `08_restored_file.png` |
 
 > All screenshots are stored in the `screenshots/` folder for this project.
 
