@@ -60,7 +60,7 @@ A user accidentally deletes important documents from their `Documents` folder. A
 | Restore wizard open | `05_restore_wizard.png` |
 | Restored file | `06_restored_file.png` |
 
-> All screenshots should be stored in the `screenshots/` folder for this project.
+> All screenshots are stored in the `screenshots/` folder for this project.
 
 ---
 
