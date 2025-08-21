@@ -13,7 +13,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 - [Windows 10 – Disk Management & Partitioning](./windows10-disk-management)  
   *Created and managed a Virtual Hard Disk (VHD), performed partitioning, formatting, shrinking/extending volumes, and optimized system performance with cleanup tools.*
 
-- [Windows 10 – Domain Join to Active Directory](./windows10-domain-join)  
+- [Windows 10 – Domain Join to Active Directory](./active_directory/windows10-domain-join)  
   *Configured Windows 10 Pro to join a domain managed by Windows Server, applied Group Policies, and tested user account restrictions.*  
 
 *(More labs coming soon: Security Hardening, Networking Diagnostics, PowerShell Automation)*  
