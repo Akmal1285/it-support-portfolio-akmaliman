@@ -29,4 +29,4 @@ To simulate an IT support role managing hardware inventory across an organizatio
 | `03_full_tracker.png`    | Overview of the full sheet          |
 
 ## 🧠 Notes
-This asset tracker is part of a larger IT Support Portfolio created to demonstrate practical job readiness for IT Administrator roles.
+This asset tracker is part of a larger IT Support Portfolio created to demonstrate practical job readiness for IT Administrator and IT Support roles.
