@@ -60,7 +60,8 @@ Disk management is an essential IT Support skill used for:
 ### 5. Perform Volume Operations
 - **Shrink Volume** → Reduced by 1 GB  
 - **Extend Volume** → Added free space back  
-![Screenshot 5](screenshots/volume_operations.png)
+![Screenshot 6](screenshots/shrink_volume.png)
+![Screenshot 7](screenshots/extend_volume.png)
 
 ---
 
