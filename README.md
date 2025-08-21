@@ -12,11 +12,11 @@ My goal is to demonstrate **practical IT support and system administration skill
 | Project | Description |
 |---------|-------------|
 | [Windows 10 – Disk Management & Partitioning](./windows10-disk-management) | Created and managed a VHD, performed partitioning, formatting, shrinking/extending volumes, and optimized system performance. |
-| [Windows 10 – Domain Join to Active Directory](./active_directory) | Configured Windows 10 Pro to join a domain managed by Windows Server, applied Group Policies, and tested user account restrictions. |
+| [Windows 10 – Domain Join to Active Directory](./active_directory) | Configured Windows 10 Pro to join a domain managed by Windows Server. |
 | [Windows Backup and Restore](./Windows-Backup-and-Restore) | Demonstrated backup/restore operations using system images and file-level backups. |
 | [Fix Corrupt User Profile Case Study](./fix-corrupt-user-profile-case-study) | Diagnosed and repaired a corrupted user profile in Windows 10. |
 | [Networking Essentials](./networking) | Performed diagnostics with `ping`, `tracert`, and DNS troubleshooting. |
-| [Remote Software Installation](./remote-software-installation) | Installed software remotely using RDP and PowerShell remoting. |
+| [Remote Software Installation](./remote-software-installation) | Installed software remotely using TeamViewer. |
 | [Troubleshooting Scenarios](./troubleshooting) | Documented real-world troubleshooting steps for common Windows issues. |
 
 ---
