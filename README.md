@@ -22,8 +22,8 @@ My goal is to demonstrate **practical IT support and system administration skill
 ---
 
 ## 📜 Certifications
-- ✅ [Google IT Support Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/22NWF3P73SVQ])  
-- 📖 [Microsoft 365 Fundamentals (MS-900)]([https://drive.google.com/file/d/1CABs4ltWfIXagNygahDzQ4dSw3_wwebB/view?usp=sharing]) 
+- ✅ [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/22NWF3P73SVQ)  
+- 📖 [Microsoft 365 Fundamentals (MS-900)](https://drive.google.com/file/d/1CABs4ltWfIXagNygahDzQ4dSw3_wwebB/view?usp=sharing) 
 
 
 ---
@@ -36,10 +36,9 @@ My goal is to demonstrate **practical IT support and system administration skill
 ![Security](https://img.shields.io/badge/Security-Hardening-red)  
 
 - Windows 10/11 troubleshooting & administration  
-- Active Directory & Group Policy (GPO)  
+- Active Directory
 - Disk management, partitioning & optimization  
 - Networking basics (DNS, DHCP, TCP/IP troubleshooting)  
-- Security hardening (BitLocker, Defender, firewall rules)  
 - PowerShell scripting for automation  
 - Documentation & technical communication  
 
