@@ -1,7 +1,7 @@
 # 💻 IT Support Portfolio – Muhammad Akmal Iman
 
 Welcome to my **IT Support Portfolio**!  
-This repository showcases hands-on labs, troubleshooting projects, and case studies I’ve completed on **Windows 10 Pro, Windows Server, and IT support tools**.  
+This repository showcases my hands-on IT support labs, troubleshooting projects, and system administration case studies using **Windows 10 Pro, Windows Server, and IT support tools**.  
 
 My goal is to demonstrate **practical IT support and system administration skills** through real-world scenarios such as Active Directory management, disk optimization, and troubleshooting.  
 
@@ -9,20 +9,22 @@ My goal is to demonstrate **practical IT support and system administration skill
 
 ## 📂 Projects
 
-### 🖥 Windows 10 Labs
-- [Windows 10 – Disk Management & Partitioning](./windows10-disk-management)  
-  *Created and managed a Virtual Hard Disk (VHD), performed partitioning, formatting, shrinking/extending volumes, and optimized system performance with cleanup tools.*
-
-- [Windows 10 – Domain Join to Active Directory](./active_directory)  
-  *Configured Windows 10 Pro to join a domain managed by Windows Server, applied Group Policies, and tested user account restrictions.*  
-
-*(More labs coming soon: Security Hardening, Networking Diagnostics, PowerShell Automation)*  
+| Project | Description |
+|---------|-------------|
+| [Windows 10 – Disk Management & Partitioning](./windows10-disk-management) | Created and managed a VHD, performed partitioning, formatting, shrinking/extending volumes, and optimized system performance. |
+| [Windows 10 – Domain Join to Active Directory](./active_directory) | Configured Windows 10 Pro to join a domain managed by Windows Server, applied Group Policies, and tested user account restrictions. |
+| [Windows Backup and Restore](./Windows%20Backup%20and%20Restore) | Demonstrated backup/restore operations using system images and file-level backups. |
+| [Fix Corrupt User Profile Case Study](./fix_corrupt_user_profile_case_study) | Diagnosed and repaired a corrupted user profile in Windows 10. |
+| [Networking Essentials](./networking) | Performed diagnostics with `ping`, `tracert`, and DNS troubleshooting. |
+| [Remote Software Installation](./remote_software_installation) | Installed software remotely using RDP and PowerShell remoting. |
+| [Troubleshooting Scenarios](./troubleshooting) | Documented real-world troubleshooting steps for common Windows issues. |
 
 ---
 
 ## 📜 Certifications
-- ✅ **Google IT Support Professional Certificate**  
-- 📖 **Microsoft 365 Fundamentals (MS-900)**  
+- ✅ [Google IT Support Professional Certificate]([https://www.coursera.org/account/accomplishments/specialization/22NWF3P73SVQ])  
+- 📖 [Microsoft 365 Fundamentals (MS-900)]([https://drive.google.com/file/d/1CABs4ltWfIXagNygahDzQ4dSw3_wwebB/view?usp=sharing]) 
+
 
 ---
 
@@ -54,7 +56,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 I am an **IT graduate** with practical experience in setting up and troubleshooting Windows environments.  
 I enjoy solving technical problems, documenting solutions, and continuously learning to improve IT support delivery.  
 
-- 🌍 Based in Kedah, Malaysia  
+- 🌍 Based in Kedah, Malaysia (open to opportunities across Malaysia)  
 - 🔗 [LinkedIn](https://linkedin.com/in/akmaliman)  
 - 📂 [GitHub Portfolio](https://github.com/Akmal1285/it-support-portfolio-akmaliman)  
 
