@@ -13,11 +13,14 @@ My goal is to demonstrate **practical IT support and system administration skill
 |---------|-------------|
 | [Windows 10 – Disk Management & Partitioning](./windows10-disk-management) | Created and managed a VHD, performed partitioning, formatting, shrinking/extending volumes, and optimized system performance. |
 | [Windows 10 – Domain Join to Active Directory](./active_directory) | Configured Windows 10 Pro to join a domain managed by Windows Server. |
+| [Windows 10 – Security Hardening](./windows10-security-hardening) | Enabled BitLocker encryption, configured Windows Defender Antivirus, and applied firewall rules to strengthen endpoint security. |
 | [Windows Backup and Restore](./Windows-Backup-and-Restore) | Demonstrated backup/restore operations using system images and file-level backups. |
 | [Fix Corrupt User Profile Case Study](./fix-corrupt-user-profile-case-study) | Diagnosed and repaired a corrupted user profile in Windows 10. |
 | [Networking Essentials](./networking) | Performed diagnostics with `ping`, `tracert`, and DNS troubleshooting. |
 | [Remote Software Installation](./remote-software-installation) | Installed software remotely using TeamViewer. |
 | [Troubleshooting Scenarios](./troubleshooting) | Documented real-world troubleshooting steps for common Windows issues. |
+
+
 
 ---
 
@@ -40,7 +43,8 @@ My goal is to demonstrate **practical IT support and system administration skill
 - Disk management, partitioning & optimization  
 - Networking basics (DNS, DHCP, TCP/IP troubleshooting)  
 - PowerShell scripting for automation  
-- Documentation & technical communication  
+- Documentation & technical communication
+- Endpoint security hardening (BitLocker, Windows Defender, Firewall rules)
 
 ---
 
@@ -63,7 +67,7 @@ I enjoy solving technical problems, documenting solutions, and continuously lear
 
 ## 🚀 Next Steps
 This portfolio is continuously growing. Upcoming projects include:  
-- **Windows Security Hardening** (BitLocker, Defender, Firewall rules)  
+- **Password Reset & MFA Policy** (user account security)  
 - **Remote Troubleshooting Lab** (RDP, PowerShell Remoting)  
 - **Networking Diagnostics** (ping, tracert, DNS resolution labs)  
 - **Automation Projects** (bulk user creation, scheduled backups with PowerShell)  
