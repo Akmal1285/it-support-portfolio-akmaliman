@@ -49,10 +49,10 @@ The system allows users to **submit tickets**, and IT support staff can **track*
 ## 📸 Screenshots
 
 ### 📋 Google Forms Ticket Submission
-![Google Form Example](/screenshots/Google_Form_Ticket_System.png)
+![Google Form Example](Screenshots/Google_Form_Ticket_System.png)
 
 ### 📊 Google Sheets Ticket Management
-![Google Sheet Example](/screenshots/Google_Sheet_Ticket_Management.png)
+![Google Sheet Example](Screenshots/Google_Sheet_Ticket_Management.png)
 
 ---
 
