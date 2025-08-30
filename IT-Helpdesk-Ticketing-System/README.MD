@@ -67,4 +67,4 @@ The system allows users to **submit tickets**, and IT support staff can **track*
 
 ## 🎯 Demo
 - [Google Forms Ticket Submission](https://docs.google.com/forms/d/e/1FAIpQLSeBzXq0NK0mp7sySqXna6BlC-KyunnA-fLT8k14vuZGtieR7Q/viewform)
-- [Google Forms Ticket Submission](https://docs.google.com/spreadsheets/d/1oecn7avsQThs8hiCUDS919ynwjhG7z9tQ9s7-gX3iyo/edit?resourcekey=&gid=346961372#gid=346961372)
+- [Google Forms Ticket Management](https://docs.google.com/spreadsheets/d/1oecn7avsQThs8hiCUDS919ynwjhG7z9tQ9s7-gX3iyo/edit?resourcekey=&gid=346961372#gid=346961372)
