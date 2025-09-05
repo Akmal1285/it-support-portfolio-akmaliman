@@ -70,7 +70,7 @@ I enjoy solving technical problems, documenting solutions, and continuously lear
 
 ## 🚀 Next Steps
 This portfolio is continuously growing. Upcoming projects include:  
-- **Password Reset & MFA Policy** (user account security)  
+- **Azure File Share & Drive Mapping** (connect cloud storage to Windows 10 VM) 
 - **Remote Troubleshooting Lab** (RDP, PowerShell Remoting)  
 - **Networking Diagnostics** (ping, tracert, DNS resolution labs)  
 - **Automation Projects** (bulk user creation, scheduled backups with PowerShell)  
