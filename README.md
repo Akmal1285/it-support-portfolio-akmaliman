@@ -20,6 +20,8 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [Remote Software Installation](./remote-software-installation) | Installed software remotely using TeamViewer. |
 | [Troubleshooting Scenarios](./troubleshooting) | Documented real-world troubleshooting steps for common Windows issues. |
 | [Google Sheets Ticketing System](./IT-Helpdesk-Ticketing-System) | Created a no-code IT support ticketing system using Google Forms for ticket submission and Google Sheets for ticket management. |
+| [Azure AD – User Management & MFA Lab](./Azure-ad-mfa-lab) | Created a cloud user in Microsoft Entra ID, enforced MFA, and validated login security. |
+
 
 
 
