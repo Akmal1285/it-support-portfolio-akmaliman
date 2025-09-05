@@ -42,7 +42,6 @@ Azure Files provides SMB file shares hosted in the cloud, enabling seamless acce
 ### 3) Retrieve Access Keys
 - Storage account → **Security + networking → Access keys**
 - Copied **Account name** & **Key1** for SMB credentials  
-*(Sensitive values masked in screenshot)*  
 ![Access keys](screenshots/access_keys.png)
 
 ---
@@ -77,4 +76,5 @@ Azure Files provides SMB file shares hosted in the cloud, enabling seamless acce
 - Learned how to integrate **Azure Storage** with a Windows endpoint using SMB
 - Understood the role of **Access Keys** in authenticating to Azure Files
 - Portfolio-ready lab showing **cloud-to-endpoint** connectivity
+
 
