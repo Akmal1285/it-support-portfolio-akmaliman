@@ -21,6 +21,8 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [Troubleshooting Scenarios](./troubleshooting) | Documented real-world troubleshooting steps for common Windows issues. |
 | [Google Sheets Ticketing System](./IT-Helpdesk-Ticketing-System) | Created a no-code IT support ticketing system using Google Forms for ticket submission and Google Sheets for ticket management. |
 | [Azure AD – User Management & MFA Lab](./Azure-ad-mfa-lab) | Created a cloud user in Microsoft Entra ID, enforced MFA, and validated login security. |
+| [Azure File Share – Drive Mapping Lab](./Azure-file-share-lab) | Created an Azure Storage File Share and mapped it as a network drive in a Windows VM, verifying read/write access. |
+
 
 
 
@@ -70,7 +72,7 @@ I enjoy solving technical problems, documenting solutions, and continuously lear
 
 ## 🚀 Next Steps
 This portfolio is continuously growing. Upcoming projects include:  
-- **Azure File Share & Drive Mapping** (connect cloud storage to Windows 10 VM) 
+- **Azure Backup & Recovery Lab** – enable Recovery Services Vault and demonstrate file restore
 - **Remote Troubleshooting Lab** (RDP, PowerShell Remoting)  
 - **Networking Diagnostics** (ping, tracert, DNS resolution labs)  
 - **Automation Projects** (bulk user creation, scheduled backups with PowerShell)  
