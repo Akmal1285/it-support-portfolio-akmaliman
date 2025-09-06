@@ -44,7 +44,7 @@ Triggered a manual backup to create a restore point.
 
 ### 4) Restore Job Result
 Initiated a restore from the Recovery Services Vault. The backup job page confirms **Restore completed successfully**.  
-![Restore result](screenshots/restore_result.png)
+![Restore result](screenshots/restore_screen.png)
 
 ---
 
@@ -65,3 +65,4 @@ Confirmed the previously deleted test file reappears in the mapped `Z:` drive.
 - Practical experience protecting **Azure Files** with cloud backup
 - Learned backup policy basics and on-demand restore
 - Enhanced portfolio with **disaster recovery** skills
+
