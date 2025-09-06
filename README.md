@@ -16,6 +16,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [Windows 10 – Security Hardening](./windows10-security-hardening) | Enabled BitLocker encryption, configured Windows Defender Antivirus, and applied firewall rules to strengthen endpoint security. |
 | [Windows Backup and Restore](./Windows-Backup-and-Restore) | Demonstrated backup/restore operations using system images and file-level backups. |
 | [Fix Corrupt User Profile Case Study](./fix-corrupt-user-profile-case-study) | Diagnosed and repaired a corrupted user profile in Windows 10. |
+| [MySQL Helpdesk Ticket System (CMD Case Study)](./MySQL-ticket-case-study) | Built a simple ticket database in MySQL via Command Prompt, performed CRUD operations, and simulated helpdesk workflows. |
 | [Networking Essentials](./networking) | Performed diagnostics with `ping`, `tracert`, and DNS troubleshooting. |
 | [Remote Software Installation](./remote-software-installation) | Installed software remotely using TeamViewer. |
 | [Troubleshooting Scenarios](./troubleshooting) | Documented real-world troubleshooting steps for common Windows issues. |
