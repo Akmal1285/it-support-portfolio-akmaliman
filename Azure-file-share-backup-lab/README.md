@@ -10,7 +10,7 @@ This demonstrates cloud-based data protection and recovery skills.
 - Create a Recovery Services Vault
 - Enable backup for an Azure File Share
 - Run an on-demand backup
-- Restore a deleted file
+- Restore and verify a deleted file
 
 ---
 
@@ -23,11 +23,34 @@ This demonstrates cloud-based data protection and recovery skills.
 ---
 
 ## 📸 Steps & Screenshots
-1. Vault created ![Vault](screenshots/vault_overview.png)
-2. Backup enabled for file share ![Backup enabled](screenshots/backup_enabled.png)
-3. On-demand backup job ![Backup job](screenshots/backup_job.png)
-4. Restore wizard ![Restore](screenshots/restore_screen.png)
-5. File successfully restored ![File restored](screenshots/file_restored.png)
+
+### 1) Vault Created
+Created a **Recovery Services Vault** in the same region as the storage account.  
+![Vault overview](screenshots/vault_overview.png)
+
+---
+
+### 2) Backup Enabled for File Share
+Configured the vault to protect the `labshare` Azure File Share.  
+![Backup enabled](screenshots/backup_enabled.png)
+
+---
+
+### 3) On-Demand Backup Job
+Triggered a manual backup to create a restore point.  
+![Backup job](screenshots/backup_job.png)
+
+---
+
+### 4) Restore Job Result
+Initiated a restore from the Recovery Services Vault. The backup job page confirms **Restore completed successfully**.  
+![Restore result](screenshots/restore_result.png)
+
+---
+
+### 5) Verify Restored File
+Confirmed the previously deleted test file reappears in the mapped `Z:` drive.  
+![File restored](screenshots/file_restored.png)
 
 ---
 
