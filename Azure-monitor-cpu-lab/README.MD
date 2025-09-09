@@ -39,7 +39,7 @@ The alert notifies administrators via **email** when CPU usage exceeds a defined
 
 ### 2) Trigger CPU Spike
 - Logged into the VM and ran apps/stress test until CPU reached ~100%  
-- Verified high CPU usage in Metrics Explorer  
+- Verified high CPU usage in Task Manager  
 ![VM CPU Spike](screenshots/vm_cpu_high.png)  
 
 ---
@@ -64,5 +64,6 @@ The alert notifies administrators via **email** when CPU usage exceeds a defined
 - Practiced configuring **real-time alerts** in Azure Monitor  
 - Learned how Action Groups deliver notifications  
 - Reinforced skills in **monitoring, alerting, and troubleshooting**  
+
 
 ---
