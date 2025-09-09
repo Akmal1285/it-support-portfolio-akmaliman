@@ -63,9 +63,9 @@ This lab demonstrates how to configure and verify **Local Group Policy** setting
 ---
 
 ### 4. Apply Group Policy
-Run as **Administrator**:
+Run Powershell as **Administrator**:
 
-```cmd
+```powershell
 gpupdate /force
 ```
 
