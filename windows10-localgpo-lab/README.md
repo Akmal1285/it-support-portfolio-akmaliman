@@ -76,7 +76,7 @@ gpupdate /force
 ### Password & Lockout Policy
 Run:
 
-```cmd
+```powershell
 net accounts
 ```
 
