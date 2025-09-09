@@ -24,6 +24,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [Azure AD – User Management & MFA Lab](./Azure-ad-mfa-lab) | Created a cloud user in Microsoft Entra ID, enforced MFA, and validated login security. |
 | [Azure File Share – Drive Mapping Lab](./Azure-file-share-lab) | Created an Azure Storage File Share and mapped it as a network drive in a Windows VM, verifying read/write access. |
 | [Azure File Share – Backup & Recovery Lab](./Azure-file-share-backup-lab) | Enabled a Recovery Services Vault, protected an Azure File Share, triggered an on-demand backup, and restored a deleted file. |
+| [Azure Monitor – VM CPU Alert Lab](./Azure-monitor-cpu-lab) | Configured and tested Azure Monitor alert rule with email notification when VM CPU usage exceeded 80%. |
 
 
 
