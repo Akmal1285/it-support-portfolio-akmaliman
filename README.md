@@ -14,6 +14,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [Windows 10 – Disk Management & Partitioning](./windows10-disk-management) | Created and managed a VHD, performed partitioning, formatting, shrinking/extending volumes, and optimized system performance. |
 | [Windows 10 – Domain Join to Active Directory](./active_directory) | Configured Windows 10 Pro to join a domain managed by Windows Server. |
 | [Windows 10 – Security Hardening](./windows10-security-hardening) | Enabled BitLocker encryption, configured Windows Defender Antivirus, and applied firewall rules to strengthen endpoint security. |
+| [Windows 10 - Local Group Policy Hardening](./windows10-gpo-lab) | Enforced password length, account lockout, and audit policies on a standalone VM; verified with `net accounts`, `auditpol`
 | [Windows Backup and Restore](./Windows-Backup-and-Restore) | Demonstrated backup/restore operations using system images and file-level backups. |
 | [Fix Corrupt User Profile Case Study](./fix-corrupt-user-profile-case-study) | Diagnosed and repaired a corrupted user profile in Windows 10. |
 | [MySQL Helpdesk Ticket System (CMD Case Study)](./MySQL-ticket-case-study) | Built a simple ticket database in MySQL via Command Prompt, performed CRUD operations, and simulated helpdesk workflows. |
