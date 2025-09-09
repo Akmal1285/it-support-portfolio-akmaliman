@@ -33,7 +33,8 @@ This lab demonstrates how to configure and verify **Local Group Policy** setting
    - **Minimum password length**: `10`  
    - **Password must meet complexity requirements**: `Enabled`  
 
-📸 `screenshots/gpedit-password.png`
+![Screenshot 1 – gpedit Password](screenshots/gpedit-password.png)
+
 
 ---
 
@@ -44,8 +45,8 @@ This lab demonstrates how to configure and verify **Local Group Policy** setting
    - **Account lockout threshold**: `5`  
    - **Lockout duration**: `30 minutes`  
    - **Reset account lockout counter after**: `15 minutes`  
+![Screenshot 2 – gpedit Account lockout](screenshots/gpedit-lockout.png)
 
-📸 `screenshots/gpedit-lockout.png`
 
 ---
 
@@ -55,7 +56,8 @@ This lab demonstrates how to configure and verify **Local Group Policy** setting
 2. Enable:
    - **Audit logon events**: `Success, Failure`  
 
-📸 `screenshots/gpedit-audit.png`
+![Screenshot 3 – gpedit Audit](screenshots/gpedit-audit.png)
+
 
 ---
 
@@ -83,7 +85,8 @@ Expected output:
 - Lockout duration = **30 minutes**  
 - Lockout observation window = **15 minutes**  
 
-📸 `screenshots/net-accounts.png`
+![Screenshot 4 – net accounts](screenshots/net-accounts.png)
+
 
 ---
 
@@ -97,6 +100,7 @@ auditpol /get /category:*
 Expected output:
 - Logon/Logoff auditing = **Success, Failure**  
 
+![Screenshot 5 – Auditpol](screenshots/auditpol.png)
 📸 `screenshots/auditpol.png`
 
 ---
@@ -117,18 +121,4 @@ Expected output:
 
 ---
 
-## 📂 Folder Structure
-```
-windows10-gpo-lab/
-  README.md
-  screenshots/
-    gpedit-password.png
-    gpedit-lockout.png
-    gpedit-audit.png
-    gpupdate.png
-    net-accounts.png
-    auditpol.png
-    eventviewer.png   (optional)
-    gpresult-note.png (optional)
-```
 
