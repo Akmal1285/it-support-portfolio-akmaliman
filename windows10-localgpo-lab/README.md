@@ -44,7 +44,8 @@ This lab demonstrates how to configure and verify **Local Group Policy** setting
 2. Set values:
    - **Account lockout threshold**: `5`  
    - **Lockout duration**: `30 minutes`  
-   - **Reset account lockout counter after**: `15 minutes`  
+   - **Reset account lockout counter after**: `15 minutes`
+      
 ![Screenshot 2 – gpedit Account lockout](screenshots/gpedit-lockout.png)
 
 
@@ -101,7 +102,7 @@ Expected output:
 - Logon/Logoff auditing = **Success, Failure**  
 
 ![Screenshot 5 – Auditpol](screenshots/auditpol.png)
-📸 `screenshots/auditpol.png`
+
 
 ---
 
