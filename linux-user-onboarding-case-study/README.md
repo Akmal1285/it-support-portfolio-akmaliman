@@ -25,7 +25,7 @@ The system allows me to **practice fundamental system administration skills** an
 2.  During the installation, a **non-root user** was created with `sudo` privileges.
 3.  The base operating system was installed without any additional "snaps" to ensure a clean environment.
 
-### 🚀 Example Workflow
+###  Workflow
 
 A new employee, Jane Doe, requires a user account with administrative privileges. I performed the following steps in the command line:
 
@@ -61,3 +61,4 @@ A new employee, Jane Doe, requires a user account with administrative privileges
 * **Understood the security principles** behind creating non-root users and using `sudo`.
 * **Practiced a core IT support task** (account provisioning) in a simulated environment.
 * **Demonstrated problem-solving skills** by troubleshooting a common login issue during the initial setup.
+
