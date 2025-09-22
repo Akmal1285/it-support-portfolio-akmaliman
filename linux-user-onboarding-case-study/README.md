@@ -34,7 +34,7 @@ A new employee, Jane Doe, requires a user account with administrative privileges
     ```bash
     sudo adduser janedoe
     ```
-   ![Screenshot](screenshots/Add_user.png)
+    ![Screenshot](screenshots/Add_user.png)
 
 2.  **Added Jane's account to the `sudo` group**, granting her administrative privileges.
 
@@ -64,6 +64,7 @@ A new employee, Jane Doe, requires a user account with administrative privileges
 * **Understood the security principles** behind creating non-root users and using `sudo`.
 * **Practiced a core IT support task** (account provisioning) in a simulated environment.
 * **Demonstrated problem-solving skills** by troubleshooting a common login issue during the initial setup.
+
 
 
 
