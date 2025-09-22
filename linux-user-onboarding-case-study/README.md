@@ -32,19 +32,19 @@ A new employee, Jane Doe, requires a user account with administrative privileges
 1.  **Created a new user account** for Jane.
 
     ```bash
-    sudo adduser jane.doe
+    sudo adduser janedoe
     ```
 
 2.  **Added Jane's account to the `sudo` group**, granting her administrative privileges.
 
     ```bash
-    sudo usermod -aG sudo jane.doe
+    sudo usermod -aG sudo janedoe
     ```
 
 3.  **Verified the group membership** to ensure the command was successful.
 
     ```bash
-    groups jane.doe
+    groups janedoe
     ```
 
     The output confirmed that her account was now in the `sudo` group.
@@ -61,4 +61,5 @@ A new employee, Jane Doe, requires a user account with administrative privileges
 * **Understood the security principles** behind creating non-root users and using `sudo`.
 * **Practiced a core IT support task** (account provisioning) in a simulated environment.
 * **Demonstrated problem-solving skills** by troubleshooting a common login issue during the initial setup.
+
 
