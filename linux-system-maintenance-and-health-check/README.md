@@ -23,7 +23,7 @@ This project demonstrates a proactive approach to system administration by perfo
 2.  During the installation, a **non-root user** was created with **sudo** privileges.
 3.  The base operating system was installed without any additional "snaps" to ensure a clean environment.
 
-### Example Workflow
+### Workflow
 
 To perform the health check, I used a series of command-line tools to gather data and identify any issues.
 
@@ -103,6 +103,7 @@ Finally, I performed routine maintenance to free up space and apply security pat
 - **Understood the importance** of proactive monitoring and log analysis for maintaining a stable system.
 - **Practiced a core IT support task** of routine maintenance to prevent system failures.
 - **Demonstrated problem-solving skills** by identifying key system information and cleaning up the environment.
+
 
 
 
