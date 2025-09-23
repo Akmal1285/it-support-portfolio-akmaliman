@@ -36,6 +36,9 @@ First, I checked the server's resource utilization to see how it was performing.
     `free -h`
     `top`
 
+  ![Screenshot](screenshots/free-h.png)
+  ![Screenshot](screenshots/top.png)
+
     *What this shows:* `free -h` shows the total, used, and available memory in a human-readable format. `top` provides a real-time, dynamic view of processes and their resource consumption.
 
 - Disk Usage: I used the `df` command to check how much disk space was being used.
@@ -84,3 +87,4 @@ Finally, I performed routine maintenance to free up space and apply security pat
 - **Understood the importance** of proactive monitoring and log analysis for maintaining a stable system.
 - **Practiced a core IT support task** of routine maintenance to prevent system failures.
 - **Demonstrated problem-solving skills** by identifying key system information and cleaning up the environment.
+
