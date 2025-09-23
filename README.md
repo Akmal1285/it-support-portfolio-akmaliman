@@ -42,7 +42,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 ---
 
 ## ⚙️ Skills Demonstrated
-![Windows](https://img.shields.io/badge/OS-Windows10/11-blue) ![Linux](https://img.shields.io/badge/OS-Linux-black) 
+![Windows](https://img.shields.io/badge/OS-Windows10/11-blue)![Linux](https://img.shields.io/badge/OS-Linux-black) 
 ![Active Directory](https://img.shields.io/badge/ActiveDirectory-Management-green)  
 ![Networking](https://img.shields.io/badge/Networking-DNS/DHCP-lightgrey)  
 ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-brightblue)  
