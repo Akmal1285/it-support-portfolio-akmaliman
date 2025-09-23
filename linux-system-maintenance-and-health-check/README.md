@@ -47,7 +47,7 @@ First, I checked the server's resource utilization to see how it was performing.
 
     `df -h`
 
- ![Screenshot](screenshots/df-h.png)
+  ![Screenshot](screenshots/df-h.png)
 
   *What this shows:* This command displays the available and used disk space for all mounted file systems. This is a crucial check to prevent the server from running out of space.
 
@@ -57,7 +57,7 @@ I then checked the system logs to look for any recent errors, warnings, or failu
 
 `sudo journalctl -p err -xb`
 
- ![Screenshot](screenshots/journalctl-perror.png)
+ ![Screenshot](screenshots/journalctl.png)
 
 #### Diagnosing System Health
 
@@ -75,6 +75,8 @@ To ensure no unnecessary or rogue processes were consuming resources, I listed a
 
 `ps aux`
 
+![Screenshot](screenshots/ps_aux.png)
+
 *What this shows:* This command provides a comprehensive list of all running processes, their status, and the user who started them. In a real-world scenario, you would use this to identify and `kill` (terminate) any non-critical processes that are using too much memory or CPU.
 
 #### Step 4: Clean Up and Update the System
@@ -82,8 +84,16 @@ To ensure no unnecessary or rogue processes were consuming resources, I listed a
 Finally, I performed routine maintenance to free up space and apply security patches.
 
 `sudo apt autoclean`
+
+![Screenshot](screenshots/apt_autoclean.png)
+
 `sudo apt autoremove`
+
+![Screenshot](screenshots/apt_autoremove.png)
+
 `sudo apt update && sudo apt upgrade`
+
+![Screenshot](screenshots/aptupdate_upgrade.png)
 
 *What this shows:* `autoclean` removes old installation packages, and `autoremove` removes dependencies that are no longer needed. The final two commands ensure the system is fully up-to-date and secure.
 
@@ -93,6 +103,7 @@ Finally, I performed routine maintenance to free up space and apply security pat
 - **Understood the importance** of proactive monitoring and log analysis for maintaining a stable system.
 - **Practiced a core IT support task** of routine maintenance to prevent system failures.
 - **Demonstrated problem-solving skills** by identifying key system information and cleaning up the environment.
+
 
 
 
