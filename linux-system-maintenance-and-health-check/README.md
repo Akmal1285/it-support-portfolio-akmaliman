@@ -47,6 +47,8 @@ First, I checked the server's resource utilization to see how it was performing.
 
     `df -h`
 
+ ![Screenshot](screenshots/df-h.png)
+
     *What this shows:* This command displays the available and used disk space for all mounted file systems. This is a crucial check to prevent the server from running out of space.
 
 #### Step 2: Review System Logs for Errors
@@ -54,6 +56,8 @@ First, I checked the server's resource utilization to see how it was performing.
 I then checked the system logs to look for any recent errors, warnings, or failures that could indicate an underlying problem.
 
 `sudo journalctl -p err -xb`
+
+ ![Screenshot](screenshots/journalctl-perror.png)
 
 #### Diagnosing System Health
 
@@ -89,6 +93,7 @@ Finally, I performed routine maintenance to free up space and apply security pat
 - **Understood the importance** of proactive monitoring and log analysis for maintaining a stable system.
 - **Practiced a core IT support task** of routine maintenance to prevent system failures.
 - **Demonstrated problem-solving skills** by identifying key system information and cleaning up the environment.
+
 
 
 
