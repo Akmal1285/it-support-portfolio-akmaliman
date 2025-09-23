@@ -48,7 +48,8 @@ My goal is to demonstrate **practical IT support and system administration skill
 ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-brightblue)  
 ![Security](https://img.shields.io/badge/Security-Hardening-red)  
 
-- Windows 10/11 troubleshooting & administration  
+- Windows 10/11 troubleshooting & administration
+- Linux CLI & Administration  
 - Active Directory
 - Disk management, partitioning & optimization  
 - Networking basics (DNS, DHCP, TCP/IP troubleshooting)  
