@@ -46,7 +46,9 @@ My goal is to demonstrate **practical IT support and system administration skill
 ![Active Directory](https://img.shields.io/badge/ActiveDirectory-Management-green)  
 ![Networking](https://img.shields.io/badge/Networking-DNS/DHCP-lightgrey)  
 ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-brightblue)  
-![Security](https://img.shields.io/badge/Security-Hardening-red)  
+![Security](https://img.shields.io/badge/Security-Hardening-red) 
+![Azure](https://img.shields.io/badge/Cloud-Azure-lightblue)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)  
 
 - Windows 10/11 troubleshooting & administration
 - Linux CLI & Administration  
