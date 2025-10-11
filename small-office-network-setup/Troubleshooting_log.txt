@@ -1,1 +1,30 @@
+Connectivity Verification
+- All devices successfully pinged each other (PCs, Router, Printer)
+- Snapshot Reference: snapshot_connectivity.png
+
+Issue 1: Finance-PC cannot reach router
+- Symptom: Finance-PC ping to router 192.168.10.1 failed.
+- Diagnosis: Ran 'ipconfig' on Finance-PC → IP was 192.168.20.10 (wrong subnet).
+- Resolution: Corrected IP to 192.168.10.20.
+- Result: Ping successful, connectivity restored.
+- Snapshot Reference: snapshot_issue1.png
+
+Issue 2: ITSupport-PC cannot access Printer
+- Symptom: Ping from ITSupport-PC  to Printer 192.168.10.30 failed.
+- Diagnosis: Checked physical connection → cable disconnected.
+- Resolution: Reconnected cable from PC1 to switch.
+- Result: Ping successful, ITSupport-PC  can print to Printer.
+- Snapshot Reference: snapshot_issue2.png
+
+Issue 3: Router interface down
+- Symptom: PCs cannot reach network, all pings fail.
+- Diagnosis: Checked Router G0/0 interface → found in shutdown state.
+- Resolution: Entered CLI on router and enabled interface:
+    Router> enable
+    Router# configure terminal
+    Router(config)# interface g0/0
+    Router(config-if)# no shutdown
+- Result: Interface activated, PCs can ping router and each other.
+- Snapshot Reference: snapshot_issue3.png
+
 
