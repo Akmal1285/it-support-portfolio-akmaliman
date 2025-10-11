@@ -29,6 +29,8 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [Linux - User Onboarding Case study](./linux-user-onboarding-case-study) | A case study demonstrating fundamental Linux user and group management through a real-world account provisioning scenario. |
 | [Linux - System Maintenance & Health Check](./linux-system-maintenance-and-health-check) | A case study in proactive system maintenance, demonstrating skills in resource monitoring, log analysis, and system cleanup. |
 | [Helpdesk Ticket Documentation Series – Simulated Cases](./helpdesk-ticket-documentation) | Created simulated IT support case studies demonstrating professional ticket documentation and troubleshooting workflows. |
+| [Small Office Network Setup](./small-office-network-setup) | Designed and configured a basic office network using Cisco Packet Tracer; assigned IPs, tested connectivity, and documented troubleshooting scenarios with snapshots. |
+
 
 
 
@@ -66,6 +68,11 @@ My goal is to demonstrate **practical IT support and system administration skill
 *(from Disk Management & Partitioning project)*  
 
 ![Example Screenshot](./windows10-disk-management/screenshots/disk_management_main.png)  
+
+
+*(from Small Office Network Setup)*  
+![Exanple Screenshot](./small-office-network-setup/network_diagram.png)
+
 
 ---
 
