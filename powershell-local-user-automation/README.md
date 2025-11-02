@@ -50,8 +50,9 @@ foreach ($user in $users) {
 Write-Host "`nAll Local Users:" -ForegroundColor Cyan
 Get-LocalUser | Format-Table Name, Enabled, LastLogon
 ```
+---
 
-**Outcome:**
+#### 🧾 Outcome
 Efficient, repeatable user creation process for endpoint setup.
 
 ---
@@ -59,6 +60,7 @@ Efficient, repeatable user creation process for endpoint setup.
 ![Screenshot – PowerShell User Creation](screenshots/powershell_user_creation.png)
 
 ![Screenshot – Login Screen](screenshots/login_screen.png)
+
 
 
 
