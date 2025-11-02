@@ -1,17 +1,25 @@
 ### ⚙️ Windows 10 – PowerShell Local User Automation
-Automated local user account creation using PowerShell scripting.
+
+Automated local user account creation using **PowerShell scripting** to streamline workstation setup and onboarding tasks.
 
 **Key Skills:** PowerShell · Automation · User Management
 
-**Overview:**
-This script automates the creation of multiple local user accounts on Windows 10. It prompts for passwords, assigns groups, and verifies the results — simulating how IT Support staff automate onboarding tasks.
+---
 
-**Commands Used:**
-- `New-LocalUser`
-- `Add-LocalGroupMember`
-- `Get-LocalUser`
+#### 🧩 Overview
+This project automates the creation of multiple local user accounts on Windows 10 using PowerShell.  
+It prompts for passwords, assigns users to local groups, and verifies results — simulating how IT Support technicians automate new-user provisioning.
 
-**Script:**
+---
+
+#### 🧰 Commands Used
+- `New-LocalUser` — create local user accounts  
+- `Add-LocalGroupMember` — add users to local groups  
+- `Get-LocalUser` — verify and list all local users  
+
+---
+
+#### 💻 Script Example
 ```powershell
 # ================================
 # PowerShell Local User Automation
@@ -50,6 +58,7 @@ Efficient, repeatable user creation process for endpoint setup.
 ![Screenshot – PowerShell User Creation](screenshots/powershell_user_creation.png)
 
 ![Screenshot – Login Screen](screenshots/login_screen.png)
+
 
 
 
