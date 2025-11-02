@@ -16,8 +16,11 @@ Efficient, repeatable user creation process for endpoint setup.
 
 
 ![Screenshot – PowerShell User Creation](screenshots/powershell_user_creation.png)
+
 ![Screenshot – Script](screenshots/script.png)
+
 ![Screenshot – Login Screen](screenshots/login_screen.png)
+
 
 
 
