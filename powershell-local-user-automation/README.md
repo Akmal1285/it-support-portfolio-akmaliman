@@ -31,10 +31,10 @@ foreach ($user in $users) {
         $password = Read-Host -Prompt "Enter password for $($user.Name)" -AsSecureString
         New-LocalUser -Name $user.Name -FullName $user.FullName -Description $user.Description -Password $password
         Add-LocalGroupMember -Group "Users" -Member $user.Name
-        Write-Host "✅ User $($user.Name) created successfully." -ForegroundColor Green
+        Write-Host "User $($user.Name) created successfully." -ForegroundColor Green
     }
     else {
-        Write-Host "⚠️ User $($user.Name) already exists. Skipping..." -ForegroundColor Yellow
+        Write-Host "User $($user.Name) already exists. Skipping..." -ForegroundColor Yellow
     }
 }
 
@@ -52,6 +52,7 @@ Efficient, repeatable user creation process for endpoint setup.
 ![Screenshot – Script](screenshots/script.png)
 
 ![Screenshot – Login Screen](screenshots/login_screen.png)
+
 
 
 
