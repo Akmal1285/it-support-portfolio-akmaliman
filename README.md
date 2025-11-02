@@ -92,6 +92,6 @@ I enjoy solving technical problems, documenting solutions, and continuously lear
 This portfolio is continuously growing. Upcoming projects include:  
 - **Remote Troubleshooting Lab** (RDP, PowerShell Remoting)  
 - **Networking Diagnostics** (ping, tracert, DNS resolution labs)  
-- **Automation Projects** (bulk user creation, scheduled backups with PowerShell)  
+- **PowerShell Advanced Automation** – Import users from CSV and auto-assign roles/groups.
 
 Stay tuned!
