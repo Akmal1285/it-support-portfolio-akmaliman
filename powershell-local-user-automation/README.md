@@ -14,11 +14,13 @@ This script automates the creation of multiple local user accounts on Windows 10
 **Outcome:**
 Efficient, repeatable user creation process for endpoint setup.
 
-Powershell console![Screenshot – PowerShell User Creation](screenshots/powershell_user_creation.png)
+**Powershell console**
+![Screenshot – PowerShell User Creation](screenshots/powershell_user_creation.png)
 
-Script in notepad
-![Screenshot – PowerShell User Creation](screenshots/script.png)
+**Script in notepad**
+![Screenshot – Script](screenshots/script.png)
 
-Login screen
-![Screenshot – PowerShell User Creation](screenshots/login_screen.png)
+**Login screen**
+![Screenshot – Login Screen](screenshots/login_screen.png)
+
 
