@@ -12,6 +12,7 @@ This script automates the creation of multiple local user accounts on Windows 10
 - `Get-LocalUser`
 
 **Script:**
+```powershell
 # ================================
 # PowerShell Local User Automation
 # Author: Muhammad Akmal Iman
@@ -40,7 +41,7 @@ foreach ($user in $users) {
 # Display all created users
 Write-Host "`nAll Local Users:" -ForegroundColor Cyan
 Get-LocalUser | Format-Table Name, Enabled, LastLogon
-
+```
 
 **Outcome:**
 Efficient, repeatable user creation process for endpoint setup.
@@ -51,6 +52,7 @@ Efficient, repeatable user creation process for endpoint setup.
 ![Screenshot – Script](screenshots/script.png)
 
 ![Screenshot – Login Screen](screenshots/login_screen.png)
+
 
 
 
