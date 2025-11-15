@@ -161,44 +161,22 @@ INSERT INTO AuditLog (Username, Action, Timestamp) VALUES
 ### ✅ Outcome
 By completing this SQL project, I practiced:
 
--Error log analysis
+* Error log analysis
 
--System health monitoring
+* System health monitoring
 
--Root-cause investigation
+* Root-cause investigation
 
--SQL filtering, grouping, and sorting
+* SQL filtering, grouping, and sorting
 
--Query optimization thinking
+* Query optimization thinking
 
--Simulating real monitoring duties in IT Support / Application Support
+* Simulating real monitoring duties in IT Support / Application Support
 
--This project demonstrates practical SQL skills directly used in support roles.
+* This project demonstrates practical SQL skills directly used in support roles.
 
 ---
 
-
-
-### 📐 ERD 
-
-+------------------+        +------------------+
-|   ServiceStatus  |        |    SystemLogs    |
-+------------------+        +------------------+
-| StatusID (PK)    |        | LogID (PK)       |
-| ServiceName      |<-------| ServiceName      |
-| Status           |        | Severity         |
-| CheckedAt        |        | Timestamp        |
-+------------------+        | Message          |
-                            +------------------+
-
-                +------------------+
-                |    AuditLog      |
-                +------------------+
-                | AuditID (PK)     |
-                | Username         |
-                | Action           |
-                | Timestamp        |
-                +------------------+
 
 
 
