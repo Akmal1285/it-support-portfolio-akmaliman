@@ -180,6 +180,7 @@ By completing this SQL project, I practiced:
 
 
 ### 📐 ERD 
+
 +------------------+        +------------------+
 |   ServiceStatus  |        |    SystemLogs    |
 +------------------+        +------------------+
@@ -198,6 +199,7 @@ By completing this SQL project, I practiced:
                 | Action           |
                 | Timestamp        |
                 +------------------+
+
 
 
 
