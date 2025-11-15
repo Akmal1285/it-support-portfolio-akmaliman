@@ -180,7 +180,7 @@ By completing this SQL project, I practiced:
 
 
 ### 📐 ERD 
-  +------------------+        +------------------+
++------------------+        +------------------+
 |   ServiceStatus  |        |    SystemLogs    |
 +------------------+        +------------------+
 | StatusID (PK)    |        | LogID (PK)       |
@@ -201,6 +201,7 @@ By completing this SQL project, I practiced:
 
 
 ---
+
 
 
 
