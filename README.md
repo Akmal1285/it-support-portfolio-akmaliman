@@ -84,7 +84,6 @@ I am an **IT graduate** with practical experience in setting up and troubleshoot
 I enjoy solving technical problems, documenting solutions, and continuously learning to improve IT support delivery.  
 
 - 🌍 Based in Kedah, Malaysia (open to opportunities across Malaysia)  
-- 🔗 [LinkedIn](https://linkedin.com/in/akmaliman)  
 - 📂 [GitHub Portfolio](https://github.com/Akmal1285/it-support-portfolio-akmaliman)  
 
 ---
