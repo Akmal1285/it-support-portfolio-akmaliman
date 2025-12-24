@@ -33,6 +33,8 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [PowerShell Local User Automation](./powershell-local-user-automation) | Automated the creation of multiple local user accounts using PowerShell scripting, demonstrating endpoint setup and onboarding automation. |
 | [SQL System Monitoring](./sql-system-monitoring) | Perform practical SQL log analysis   |
 | [IT Governance: New Hire Onboarding SOP](./Documentation/IT-Onboarding-SOP.md) |Developed a standardized framework for device provisioning and identity management to ensure 100% compliance with security policies.   |
+| [Hardware Standardization & Comparison](./Documentation/Hardware-Comparison-Report.md) |A simulated procurement study evaluating Business-grade laptops (Dell vs. Lenovo vs. HP) to define company hardware standards and optimize IT support lifecycles. |
+| [ISP Vendor Evaluation & Budgeting](./Documentation/ISP-Vendor-Comparison.md) | A market comparison of Malaysian Business ISPs (TM, TIME, Maxis) focusing on SLA, Fixed IP requirements, and cost optimization. |
 
 
 
@@ -81,8 +83,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 ---
 
 ## 👨‍💻 About Me
-I am an **IT graduate** with practical experience in setting up and troubleshooting Windows environments.  
-I enjoy solving technical problems, documenting solutions, and continuously learning to improve IT support delivery.  
+I am an IT graduate specializing in IT Operations and Governance. I focus on bridging the gap between technical troubleshooting and business efficiency through standardized SOPs, strategic procurement, and cloud-native solutions. 
 
 - 🌍 Based in Kedah, Malaysia (open to opportunities across Malaysia)  
 - 📂 [GitHub Portfolio](https://github.com/Akmal1285/it-support-portfolio-akmaliman)  
