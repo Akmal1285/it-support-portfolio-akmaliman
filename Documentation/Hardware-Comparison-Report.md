@@ -30,11 +30,26 @@ Even though the Lenovo is **RM 400 cheaper**, I recommend the Dell for two key b
 * **Management:** All 10 units will use the same driver set, reducing setup time by 50%.
 
 ---
+
+## 5. Software & Licensing Strategy (Microsoft 365)
+To complement the hardware rollout, I have evaluated the licensing requirements for our 10 new staff members.
+
+| License Tier | Monthly Cost (Est.) | Key Features | Recommendation |
+| :--- | :--- | :--- | :--- |
+| **M365 Business Basic** | ~RM 28/user | Web/Mobile apps only. No Desktop apps. | Not Recommended |
+| **M365 Business Standard** | **~RM 56/user** | Full Desktop Apps (Word, Excel) + Teams. | **Recommended for General Staff** |
+| **M365 Business Premium** | ~RM 100/user | Advanced Security + **Intune Device Management**. | Recommended for Managers/IT |
+
+**Justification:**
+I recommend **Business Standard** for the general team to ensure they have offline access to Excel and Word. However, for company-owned laptops, we should consider **Business Premium** for at least 1-2 accounts to use **Microsoft Intune** for remote data wiping if a laptop is lost or stolen.
+
+---
 **Prepared By:** Akmal Iman (IT Executive)  
 **Date:** December 2025
 
 ---
-## 5. Communication Example: Recommendation Email to Management
+
+## 6. Communication Example: Recommendation Email to Management
 
 **Subject:** Proposal: Standardizing Company Laptop Model for 2025
 
