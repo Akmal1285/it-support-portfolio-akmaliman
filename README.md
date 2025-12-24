@@ -32,6 +32,7 @@ My goal is to demonstrate **practical IT support and system administration skill
 | [Small Office Network Setup](./small-office-network-setup) | Designed and configured a basic office network using Cisco Packet Tracer; assigned IPs, tested connectivity, and documented troubleshooting scenarios with snapshots. |
 | [PowerShell Local User Automation](./powershell-local-user-automation) | Automated the creation of multiple local user accounts using PowerShell scripting, demonstrating endpoint setup and onboarding automation. |
 | [SQL System Monitoring](./sql-system-monitoring) | Perform practical SQL log analysis   |
+| [IT Governance: New Hire Onboarding SOP](./Documentation/IT-Onboarding-SOP.md) |Developed a standardized framework for device provisioning and identity management to ensure 100% compliance with security policies.   |
 
 
 
