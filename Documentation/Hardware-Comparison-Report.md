@@ -1,7 +1,7 @@
-# IT Executive Report: Standard Laptop Procurement (2025)
-
 > **[!] Project Context / Disclaimer:** > This report is a **simulated procurement project** created for my professional portfolio. It demonstrates my ability to conduct market research, perform cost-benefit analysis, and communicate technical recommendations to management in a corporate environment. Prices and specs are based on 2025 Malaysian market estimates.
----
+ ---
+
+# IT Executive Report: Standard Laptop Procurement (2025)
 
 ## 1. Project Objective
 To select a standardized laptop model for the company's general staff (Finance, HR, Admin). Standardizing hardware ensures faster IT support, compatible spare parts, and better bulk pricing.
