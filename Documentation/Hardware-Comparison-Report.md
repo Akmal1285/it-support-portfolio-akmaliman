@@ -50,4 +50,5 @@ Following my market research on our current hardware needs, I am proposing that 
 I have attached the full comparison report for your review. Please let me know if I can proceed with requesting a formal Quote for the upcoming hiring batch.
 
 Best regards,  
-**Akmal Iman** IT Executive
+**Akmal Iman** 
+IT Executive
