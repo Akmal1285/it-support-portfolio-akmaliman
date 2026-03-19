@@ -5,7 +5,7 @@ This project demonstrates the implementation of **Virtual Local Area Networks (V
 
 ## 🛠️ Network Topology
 ![Network Topology](assets/topology-diagram.png)
-**
+
 
 ## 🚀 Implementation Steps
 
@@ -35,14 +35,14 @@ Switch(config-if)# switchport access vlan 20
 ```
 
 ## ✅ Verification & Results
-VLAN Database Check
+**VLAN Database Check**
 I verified the assignments using the show vlan brief command to ensure the ports were correctly mapped.
 
 **Connectivity Isolation Test**
 I attempted a ping from Sales-PC to HR-PC to confirm that the segmentation was working.
 
 **Result: Request Timed Out.**
-* Conclusion: The isolation is successful. The switch now prevents cross-department communication, effectively securing the network.
+* Conclusion: The isolation is successful.The switch now prevents cross-department communication, effectively securing the network.
 
 ## 💡 Skills Demonstrated
 * Cisco IOS CLI: Navigation and configuration.
