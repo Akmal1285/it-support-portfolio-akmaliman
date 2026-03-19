@@ -25,8 +25,8 @@ Switch(config-vlan)# name HR
 ```
 ### 3. Port Assignment
 I manually assigned the physical switch ports to their respective logical VLANs:
-Interface Fa0/1 -> VLAN 10 (Sales)
-Interface Fa0/2 -> VLAN 20 (HR)
+* Interface Fa0/1 -> VLAN 10 (Sales)
+* Interface Fa0/2 -> VLAN 20 (HR)
 ```bash
 Switch(config)# interface fa0/1
 Switch(config-if)# switchport access vlan 10
@@ -38,13 +38,13 @@ Switch(config-if)# switchport access vlan 20
 VLAN Database Check
 I verified the assignments using the show vlan brief command to ensure the ports were correctly mapped.
 
-**Connectivity Isolation Test
+**Connectivity Isolation Test**
 I attempted a ping from Sales-PC to HR-PC to confirm that the segmentation was working.
 
-**Result: Request Timed Out.
+**Result: Request Timed Out.**
 * Conclusion: The isolation is successful. The switch now prevents cross-department communication, effectively securing the network.
 
 ## 💡 Skills Demonstrated
-Cisco IOS CLI: Navigation and configuration.
-Network Administration: Creating and managing VLANs.
-Security Implementation: Applying the principle of least privilege at the Network Layer.
+* Cisco IOS CLI: Navigation and configuration.
+* Network Administration: Creating and managing VLANs.
+* Security Implementation: Applying the principle of least privilege at the Network Layer.
