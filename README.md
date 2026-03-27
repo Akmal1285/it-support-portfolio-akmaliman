@@ -45,6 +45,7 @@ Welcome to my portfolio! I am an **IT Graduate specializing in IT Operations and
 | Project | Description |
 |:--- |:--- |
 | [Small Office Network Setup](./small-office-network-setup) | Designed office network in Cisco Packet Tracer; IP assignment and VLAN testing. |
+| [Layer 2 Network Segmentation (VLANs)](./vlan-segmentation-lab) | Configured VLANs 10 (Sales) and 20 (HR), reducing the broadcast domain and preventing unauthorized cross-department access. |
 | [Networking Essentials](./networking) | Diagnostics with `ping`, `tracert`, and DNS troubleshooting. |
 | [Fix Corrupt User Profile](./fix-corrupt-user-profile-case-study) | Diagnosed and repaired corrupted Windows 10 profiles. |
 | [Helpdesk Documentation Series](./helpdesk-ticket-documentation) | Professional ticket documentation and troubleshooting workflows. |
