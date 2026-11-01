@@ -27,6 +27,7 @@ Welcome to my portfolio! I am an **IT Graduate specializing in IT Operations and
 ### 🖥️ System Administration (Windows & Linux)
 | Project | Description |
 |:--- |:--- |
+| [Active Directory File Share & SMB Permissions](./ActiveDirectory-SMB-Fileshare) | Configured SMB file shares and managed domain user access control in Windows Server 2022. |
 | [Active Directory Domain Join](./active_directory) | Configured Windows 10 Pro to join a Windows Server managed domain. |
 | [Local Group Policy Hardening](./windows10-localgpo-lab) | Enforced password lengths and account lockout policies via GPO. |
 | [Security Hardening](./windows10-security-hardening) | BitLocker encryption, Windows Defender, and Firewall rule optimization. |
