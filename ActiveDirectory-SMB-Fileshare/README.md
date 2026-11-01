@@ -6,7 +6,7 @@ This lab project demonstrates the deployment and configuration of a centralized 
 ---
 
 ## 💻 Lab Architecture & Environment
-* **Virtualization Platform:** VMware Workstation / Player
+* **Virtualization Platform:** VMware Workstation
 * **Domain Controller & File Server:** Windows Server 2022 Standard Evaluation (`MDT-SRV-01`)
 * **Domain Name:** `corp.ITLab.com`
 * **Client Machine:** Windows client joined to the `corp.ITLab.com` domain
