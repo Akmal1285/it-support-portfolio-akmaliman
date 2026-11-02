@@ -31,7 +31,7 @@ This case study details engineering support for an enterprise **Operational Tech
 * **Integration Planning:** Participated in technical coordination syncs with project stakeholders, employers, and hardware suppliers to assess product integration into the live operational environment.
 
 ### 5. Cybersecurity & Data Resilience Evaluation
-* **Endpoint Protection:** Researched enterprise endpoint protection architectures using **Trend Micro** tailored for specialized OT/industrial server and client environments.
+* **Endpoint Protection:** Researched enterprise endpoint protection architectures using **Trend Micro** tailored for specialized OT server and client environments.
 * **Disaster Recovery & VM Backups:** Evaluated **Veeam Backup & Replication** solutions for automated virtual machine (VM) backups, disaster recovery strategies, and endpoint restoration.
 
 ### 6. Professional Development & Field Exposure
