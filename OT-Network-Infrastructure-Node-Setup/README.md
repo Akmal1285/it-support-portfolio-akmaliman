@@ -36,33 +36,6 @@ This case study details engineering support for an enterprise **Operational Tech
 ### 6. Professional Development & Field Exposure
 * Attended specialized manufacturer training on XTRAN node setup fundamentals.
 * Completed introductory training on fiber optic splicing methodologies and cable handling.
-
----
-
-## 📊 Appendix A: Fiber Optic Cable – OTDR Summary (Excerpt)
-
-**Location:** Site-A to Site-B  
-**Distance:** 4.20 km  
-**Inspection Date:** 15 August 2026  
-
-### Loss Budget Calculation
-$$\text{Loss Budget} = [\text{length (km)} \times \text{attenuation/km}] + [\text{splice loss} \times \text{\# splices}] + [\text{connector loss} \times \text{\# connectors}]$$
-
-* **1310nm Budget:** $[4.20\text{ km} \times 0.4\text{ dB}] + [0.2 \times 2] + [0.5 \times 2] = \mathbf{3.08\text{ dB}}$
-* **1550nm Budget:** $[4.20\text{ km} \times 0.3\text{ dB}] + [0.2 \times 2] + [0.5 \times 2] = \mathbf{2.66\text{ dB}}$
-
-*{Acceptable Loss Threshold: Total Measured Loss } < { Loss Budget}*
-
-| Core | Wavelength 1310nm - Distance (km) | Wavelength 1310nm - Total Loss (dB) | Wavelength 1310nm - Avg Loss (dB/km) | Wavelength 1550nm - Distance (km) | Wavelength 1550nm - Total Loss (dB) | Wavelength 1550nm - Avg Loss (dB/km) | Status |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Core 1** | 4.20 | 2.15 | 0.51 | 4.20 | 1.82 | 0.43 | **PASS** |
-| **Core 2** | 4.20 | 2.20 | 0.52 | 4.20 | 1.85 | 0.44 | **PASS** |
-| **Core 3** | 4.20 | 2.10 | 0.50 | 4.20 | 1.78 | 0.42 | **PASS** |
-| **Core 4** | 4.20 | 2.25 | 0.53 | 4.20 | 1.88 | 0.45 | **PASS** |
-| **Core 5** | 4.20 | 2.18 | 0.52 | 4.20 | 1.80 | 0.43 | **PASS** |
-| **...** | ... | ... | ... | ... | ... | ... | **...** |
-| **Core 48** | 4.20 | 2.22 | 0.53 | 4.20 | 1.84 | 0.44 | **PASS** |
-
 ---
 
 ## 🧰 Technical Skills & Tools Featured
