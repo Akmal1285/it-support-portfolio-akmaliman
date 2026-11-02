@@ -51,7 +51,7 @@ $$\text{Loss Budget} = [\text{length (km)} \times \text{attenuation/km}] + [\tex
 * **1310nm Budget:** $[4.20\text{ km} \times 0.4\text{ dB}] + [0.2 \times 2] + [0.5 \times 2] = \mathbf{3.08\text{ dB}}$
 * **1550nm Budget:** $[4.20\text{ km} \times 0.3\text{ dB}] + [0.2 \times 2] + [0.5 \times 2] = \mathbf{2.66\text{ dB}}$
 
-*\text{Acceptable Loss Threshold: Total Measured Loss } < \text{ Loss Budget}*
+*{Acceptable Loss Threshold: Total Measured Loss } < { Loss Budget}*
 
 | Core | Wavelength 1310nm - Distance (km) | Wavelength 1310nm - Total Loss (dB) | Wavelength 1310nm - Avg Loss (dB/km) | Wavelength 1550nm - Distance (km) | Wavelength 1550nm - Total Loss (dB) | Wavelength 1550nm - Avg Loss (dB/km) | Status |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
