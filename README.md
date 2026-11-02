@@ -12,6 +12,7 @@ Welcome to my portfolio! I am an **IT Graduate specializing in IT Operations and
 | 📋 **[IT Governance: New Hire Onboarding SOP](./Documentation/IT-Onboarding-SOP.md)** | Standardized framework for device provisioning and identity management for 100% security compliance. |
 | 💻 **[Hardware & M365 Licensing Standardization](./Documentation/Hardware-Comparison-Report.md)** | Procurement study evaluating Dell/Lenovo/HP and M365 licensing (Standard vs Premium) to optimize OpEx. |
 | 📶 **[ISP Vendor Evaluation & Budgeting](./Documentation/ISP-Vendor-Comparison.md)** | Market comparison of Malaysian Business ISPs (TM, TIME, Maxis) focusing on SLA and annual budgeting. |
+| 🛰️ **[OT Network Infrastructure & Node Setup](./OT-Network-Infrastructure-Node-Setup)** | Case study on MPLS-TP protocol transition analysis, XTRAN node provisioning, cybersecurity evaluation, and technical SOP creation. |
 
 ---
 
@@ -60,8 +61,9 @@ Welcome to my portfolio! I am an **IT Graduate specializing in IT Operations and
 ---
 
 ## ⚙️ Skills Demonstrated
-- **Governance:** IT Procurement, SOP Development, Vendor Management (ISP/Hardware).
-- **Administration:** Active Directory, Azure AD, Windows Server, Linux CLI.
+- **OT & Enterprise Infrastructure:** MPLS-TP Protocol Analysis, XTRAN Node Setup, Fiber Diagnostics (OTDR/Power Meter), Industrial Ethernet.
+- **Governance & Operations:** IT Procurement, Technical SOP Development, Vendor Technical Research, Documentation Control.
+- **Administration & Security:** Active Directory, Azure AD, Windows Server, Linux CLI, Trend Micro Endpoint Protection, Veeam Backup & Recovery.
 - **Automation:** PowerShell Scripting, SQL Log Analysis.
 - **Security:** BitLocker, MFA, GPO Hardening, Firewall Management.
 
