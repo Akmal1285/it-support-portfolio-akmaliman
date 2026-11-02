@@ -7,6 +7,7 @@ This case study details engineering support for an enterprise **Operational Tech
 
 ## 📂 Project Deliverables & Reports
 * 📄 **[OTDR Summary Report (PDF)](./docs/OTDR_Summary_Report.pdf):** Downloadable formal enterprise acceptance test report covering loss budget calculations and 48-core link validation.
+* 📋 **[XTRAN Node Setup & TXCare SOP (PDF)](./docs/Sample-SOP-OT-Node-Connectivity-TXCare-Setup.pdf):** Step-by-step technical standard operating procedure for industrial network node configuration, TXCare management connectivity, and baseline validation.
 
 ---
 
